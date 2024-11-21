@@ -1,0 +1,25 @@
+h1 {
+    color: maroon;
+}
+
+.post {
+    background-color: blanchedalmond;
+}
+
+.user {
+    font-style: italic;
+}
+
+.btnnewPost {
+    text-decoration: none;
+    color: green;
+}
+
+.btn:active{
+        background-color: green;
+        color: black;
+}
+.btnnewPost:active{
+    background-color: green;
+    color: black;
+}
